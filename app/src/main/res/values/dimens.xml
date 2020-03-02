@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_default_sub_detail">10sp</dimen>
+    <dimen name="text_size_default_detail">12sp</dimen>
+    <dimen name="text_size_default_content">14sp</dimen>
+    <dimen name="text_size_default_sub_title">16sp</dimen>
+    <dimen name="text_size_default_title">20sp</dimen>
+</resources>
